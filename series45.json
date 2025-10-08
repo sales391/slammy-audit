@@ -4,9 +4,10 @@
   "sealed_at": "2025-10-02T14:00:00-07:00",
   "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=0&single=true&output=csv",
   "sha256": "7223e607b4ab4af72b31a97a19603e862e9352c5e8da77cf11e71afe1abefb28",
+
   "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e5da74c0c53b77e96ff678_Series45_BatchLog_10001_PUBLISHED.pdf",
   "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e5da745de73bd388c16497_Series45_TransferLog_10001_PUBLISHED.pdf",
-  "public_summary_pdf": "https://cdn.jsdelivr.net/gh/sales391/slammy-audit@main/archives/series-45/Series45_PublicSummary_PUBLISHED.pdf",
   "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e5da68a8ee011c5df107f1_hash-series45.txt",
+
   "label": "Series 45 — Batch 10001"
 }
