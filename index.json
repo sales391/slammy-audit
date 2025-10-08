@@ -1,7 +1,12 @@
 {
-  "id": "10001",
-  "series": "45",
-  "sealed_at": "2025-10-02T14:00:00-07:00",
-  "json_url": "https://raw.githubusercontent.com/sales391/slammy-audit/main/archives/series-45/series45.json",
-  "label": "Series 45 — Batch 10001"
+  "batches": [
+    {
+      "id": "10001",
+      "series": "45",
+      "sealed_at": "2025-10-02T14:00:00-07:00",
+      "json_url": "https://raw.githubusercontent.com/sales391/slammy-audit/main/archives/series-45/series45.json",
+      "label": "Series 45 — Batch 10001"
+    }
+    /* , add other batches here if needed */
+  ]
 }
