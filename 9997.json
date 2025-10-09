@@ -1,0 +1,15 @@
+{
+  "id": "9997",
+  "series": 41,
+  "sealed_at": "2025-09-01T14:00:00-07:00",
+
+  "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2041.pdf",
+  "checklist_sha256": "05baf2a97123794cfa6e8c13169b74893f0e65ec36b7f948db81a6bda3eb33ec",
+
+  "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=262147871&single=true&output=csv",
+  "sha256": "6f709d6004288cf591521b5cf002249262093f86af4a0046742bcf329f15c196",
+
+  "batch_log_pdf": "",
+  "transfer_log_pdf": "",
+  "hash_txt": ""
+}
