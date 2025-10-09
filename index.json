@@ -15,6 +15,23 @@
 
       "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2045.pdf",
       "checklist_sha256": "73538abccb67d045216385a34d3223728bea44aa878bbaccb519caa272a858c6"
+    },
+    {
+      "id": "10000",
+      "series": "44",
+      "sealed_at": "2025-09-23T14:00:00-07:00",
+      "label": "Series 44 — Batch 10000",
+
+      "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1366643341&single=true&output=csv",
+      "sha256": "13aa1f7be60f643446ce804941c2a46e02938cd2069663a37f260aeac68c676b",
+
+      "batch_log_pdf": "",
+      "transfer_log_pdf": "",
+      "hash_txt": "",
+
+      "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2044.pdf",
+      "checklist_sha256": "eea23f8951844f3fdfccf808f3aed85b8adf8f733e5e8aa0eb3c81cee9906df1"
     }
   ]
 }
+
