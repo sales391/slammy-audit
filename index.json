@@ -51,7 +51,10 @@
       "hash_txt": "",
       "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2042.pdf",
       "checklist_sha256": "1250de5acdbe1e77079548af7cd83907c240261bc2354644b2e5f87761224bf5"
-    }
-  ]
-}
+    },
+    {
+      "id": "9997",
+      "series": "41",
+      "sealed_at": "2025-09-01T14:00:00-07:00"_
+
 
