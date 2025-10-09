@@ -20,9 +20,9 @@
       "label": "Series 44 — Batch 10000",
       "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1366643341&single=true&output=csv",
       "sha256": "13aa1f7be60f643446ce804941c2a46e02938cd2069663a37f260aeac68c676b",
-      "batch_log_pdf": "",
-      "transfer_log_pdf": "",
-      "hash_txt": "",
+      "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e805097f73f45c7ae4172b_Series44_BatchLog_10000_PUBLISHED.pdf",
+      "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e8050967ff165fa5d6edc2_Series44_TransferLog_10000_PUBLISHED.pdf",
+      "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e806f3aea2ce7c3ea477e5_hash-series44.txt",
       "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2044.pdf",
       "checklist_sha256": "eea23f8951844f3fdfccf808f3aed85b8adf8f733e5e8aa0eb3c81cee9906df1"
     },
@@ -33,9 +33,9 @@
       "label": "Series 43 — Batch 9999",
       "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1512433737&single=true&output=csv",
       "sha256": "f85c03a6d1903b8a878088d62fc4d34cd82c0a6d6cb59cc638ec9ff4d701b774",
-      "batch_log_pdf": "",
-      "transfer_log_pdf": "",
-      "hash_txt": "",
+      "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e80581da5177a253f1e9a6_Series43_BatchLog_9999_PUBLISHED.pdf",
+      "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e805811453d29f9afc1440_Series43_TransferLog_9999_PUBLISHED.pdf",
+      "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e80712b6484e60c1c22675_hash-series43.txt",
       "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2043.pdf",
       "checklist_sha256": "0069006b218d9424ef58ad6478d4fdfea1f5c9479644c36cb43460fde2126d91"
     },
@@ -46,9 +46,9 @@
       "label": "Series 42 — Batch 9998",
       "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1128154540&single=true&output=csv",
       "sha256": "d770522f90c360ba7d13a00ba07825efdb8cfc12086f40fda6d24ada62afd632",
-      "batch_log_pdf": "",
-      "transfer_log_pdf": "",
-      "hash_txt": "",
+      "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e805be9ce1b0be62e1dd23_Series42_BatchLog_9998_PUBLISHED.pdf",
+      "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e805be4680fb3887f76705_Series42_TransferLog_9998_PUBLISHED.pdf",
+      "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e80722ef7eb3004148a3fa_hash-series42.txt",
       "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2042.pdf",
       "checklist_sha256": "1250de5acdbe1e77079548af7cd83907c240261bc2354644b2e5f87761224bf5"
     },
@@ -59,11 +59,12 @@
       "label": "Series 41 — Batch 9997",
       "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=262147871&single=true&output=csv",
       "sha256": "6f709d6004288cf591521b5cf002249262093f86af4a0046742bcf329f15c196",
-      "batch_log_pdf": "",
-      "transfer_log_pdf": "",
-      "hash_txt": "",
+      "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e805f0eabf0abb4d187c6b_Series41_BatchLog_9997_PUBLISHED.pdf",
+      "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e805f08c5d7fe102570040_Series41_TransferLog_9997_PUBLISHED.pdf",
+      "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e8073ad96215d445ab5382_hash-series41.txt",
       "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2041.pdf",
       "checklist_sha256": "05baf2a97123794cfa6e8c13169b74893f0e65ec36b7f948db81a6bda3eb33ec"
     }
   ]
 }
+
