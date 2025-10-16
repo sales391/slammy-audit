@@ -1,6 +1,19 @@
 {
   "batches": [
     {
+      "id": "10003",
+      "series": "47",
+      "sealed_at": "2025-10-16T14:00:00-07:00",
+      "label": "Series 47 — Batch 10003",
+      "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1141171062&single=true&output=csv",
+      "sha256": "e154e8f6738b38dac9379dd68254ed40e5d3b579fc910dc7017324a1cf579940",
+      "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68f17a1fc6b4996f1a6ead1e_Series47_BatchLog_10003_PUBLISHED.pdf",
+      "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68f17b97a0a5a797bd21bf31_Series47_TransferLog_10003_PUBLISHED.pdf",
+      "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68f17d1012fb355128ed5e0e_hash-series47.txt",
+      "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2047.pdf",
+      "checklist_sha256": "e03d988b7f10db8ba0279531cddf7ffcc5a55158f3a042e6e68a1c32768b83ec"
+    },
+    {
       "id": "10002",
       "series": "46",
       "sealed_at": "2025-10-10T14:00:00-07:00",
@@ -80,5 +93,6 @@
     }
   ]
 }
+
 
 
