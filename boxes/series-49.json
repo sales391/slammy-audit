@@ -1,0 +1,9 @@
+{
+  "series": "49",
+  "sealed_at": "2025-10-27T14:00:00-07:00",
+  "boxes": [
+    { "hash": "d186d41cbd9abf4a8a8c9437f6ab688e85e8946f752136ff8232f69e6e579511" },
+    { "hash": "37187e903313ab953d8e3934278f322cdda95c4183cc4039bfbb03401316d093" },
+    { "hash": "f0e91d4aef3478d2d6184d3235d37652685cd263102a03eeea1c7f06c7edcfba" }
+  ]
+}
