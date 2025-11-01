@@ -1,53 +1,6 @@
 [
   {
     "series": "Series 51",
-    "revision": "2025-11-01T152818",
-    "published_at": "2025-11-01T22:28:20.027Z",
-    "source": {
-      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
-      "tab_gid": 996686463,
-      "generator": "Show Build Dashboard"
-    },
-    "artifacts": [
-      {
-        "type": "checklist_csv",
-        "url": "https://drive.google.com/file/d/1psV1Uh9bJ5isnqDIF_s7dPGEopV4bazA/view?usp=drivesdk",
-        "sha256": "ffbe39114ff779cf72d885d8c7b28868838a826265f5a7efdedfc19dbf592bf8",
-        "bytes": 139
-      },
-      {
-        "type": "checklist_pdf",
-        "url": "https://drive.google.com/file/d/1UPdlxP5Qb0ml3Gx4ZDvHZy2uwimjlFe_/view?usp=drivesdk",
-        "sha256": "eddedd0467e65c88320455d596d058ea1106019bcb4ecbc67d9dfb7b657ed6d0",
-        "bytes": 34372
-      },
-      {
-        "type": "batch_log_pdf",
-        "url": "https://drive.google.com/file/d/1hZejHIalTpyysavO9VUcMd8-pp17lFO_/view?usp=drivesdk",
-        "sha256": "086dac64c4374f6531b2821b7458f52c21dd64edce7b537e18bd53f52d0a9d9f",
-        "bytes": 63689,
-        "parents": [
-          "checklist_csv",
-          "checklist_pdf"
-        ]
-      },
-      {
-        "type": "transfer_log_pdf",
-        "url": "https://drive.google.com/file/d/1kZqfjv0K0uokbFGCIgeeHwpaKdBWwvzp/view?usp=drivesdk",
-        "sha256": "13d7823ed4bda064ffcb70a36d4b7a6414d66fee91265cbb2409f271af1421e3",
-        "bytes": 61428,
-        "parents": [
-          "batch_log_pdf"
-        ]
-      }
-    ],
-    "integrity": {
-      "root": "ed83ef8e8167b2183e423804af143c7f8551150a41dcbb6cc740795a88b0180a",
-      "root_algo": "sha256-of-concatenated-artifact-hashes"
-    }
-  },
-  {
-    "series": "Series 51",
     "revision": "2025-11-01T152812",
     "published_at": "2025-11-01T22:28:14.535Z",
     "source": {
