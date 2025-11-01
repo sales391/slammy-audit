@@ -1,5 +1,52 @@
 [
   {
+    "series": "TEST SERIES",
+    "revision": "2025-11-01T125303",
+    "published_at": "2025-11-01T19:53:03.650Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://example.com/test.csv",
+        "sha256": "9284ed4fd7fe1346904656f329db6cc49c0e7ae5b8279bff37f96bc6eb59baad",
+        "bytes": 12
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://example.com/test.pdf",
+        "sha256": "1620e31e152332bd7cde6230997c5462dbca64eba72d832bb46c04d3af022250",
+        "bytes": 10
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://example.com/batch.pdf",
+        "sha256": "1620e31e152332bd7cde6230997c5462dbca64eba72d832bb46c04d3af022250",
+        "bytes": 10,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://example.com/transfer.pdf",
+        "sha256": "1620e31e152332bd7cde6230997c5462dbca64eba72d832bb46c04d3af022250",
+        "bytes": 10,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "45174fbec726e45c72689f7432c73d0e8bb4dbbec26bd0fbca49cc60c06c1b47",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    }
+  },
+  {
     "diag": true,
     "at": "2025-11-01T19:51:29.967Z"
   }
