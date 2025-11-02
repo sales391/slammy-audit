@@ -1,5 +1,57 @@
 [
   {
+    "series": "Series 50",
+    "revision": "20251102125456",
+    "published_at": "2025-11-02T20:54:56.561Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "batch_id": "10005",
+    "batchId": "10005",
+    "sealed_at_iso": "2025-10-23T14:00:00-07:00",
+    "transfer_at_iso": "",
+    "to_entity": "GoalDaddy Breaks LLC",
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://example.com/csv",
+        "sha256": "2689367b205c16ce32ed4200942b8b8b1e262dfc70d9bc9fbc77c49699a4f1df",
+        "bytes": 2
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://example.com/pdf",
+        "sha256": "2689367b205c16ce32ed4200942b8b8b1e262dfc70d9bc9fbc77c49699a4f1df",
+        "bytes": 2
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://example.com/batch",
+        "sha256": "2689367b205c16ce32ed4200942b8b8b1e262dfc70d9bc9fbc77c49699a4f1df",
+        "bytes": 2,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://example.com/transfer",
+        "sha256": "2689367b205c16ce32ed4200942b8b8b1e262dfc70d9bc9fbc77c49699a4f1df",
+        "bytes": 2,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "4dd9a18c721f657790463f62d5429872d2f887fff9524fb704ec8d4b18bf0c50",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    }
+  },
+  {
     "version": 1,
     "generated_at": "2025-11-01T19:00:00Z",
     "businesses": [
