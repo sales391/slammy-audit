@@ -1,6 +1,58 @@
 [
   {
     "series": "Series 52",
+    "revision": "2025-11-02T160236",
+    "published_at": "2025-11-03T00:02:39.984Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "batch_id": "10006",
+    "batchId": "10006",
+    "sealed_at_iso": "2025-11-03T00:02:02.131Z",
+    "transfer_at_iso": "",
+    "to_entity": "GoalDaddy Breaks (Santa Clarita, CA)",
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://drive.google.com/file/d/1ENEYK1f4tVtElo05UoL6WgbWDyKiUsu_/view?usp=drivesdk",
+        "sha256": "c9db30b565ba1a1d06db9cc6ab02e896d5fee28f9831ad758c33d34bb407f7f8",
+        "bytes": 71
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://drive.google.com/file/d/12b8frYiw33YhFkFVnUjpvSAVY6kPRK_w/view?usp=drivesdk",
+        "sha256": "3395b8a250ef260578c7eb5c4bb97b359e58def5a012a0a4819d6bc8eba9b3d0",
+        "bytes": 37776
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://drive.google.com/file/d/1Uwj6VrWg_eNX2XKN4pmwBJIPws-gBL8a/view?usp=drivesdk",
+        "sha256": "30dad4809185090b3565c1aafe612fa8c9580da1a78f11ae811b1a66cf13e9d0",
+        "bytes": 63733,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://drive.google.com/file/d/1QCuvyWYzX1MfVMAizT9GOnCFb1KAsxZn/view?usp=drivesdk",
+        "sha256": "2d0f0fd46312f73e391650595aa251cabf9e874bc0afbe9992a6961b365b51e1",
+        "bytes": 61438,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "ee4288cb066e95e66a1c5ee3cdc878b39d9ac6db0abe0ee52bdb1382e518f012",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    }
+  },
+  {
+    "series": "Series 52",
     "revision": "2025-11-02T155831",
     "published_at": "2025-11-02T23:58:33.696Z",
     "source": {
