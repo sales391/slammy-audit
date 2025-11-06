@@ -103,6 +103,90 @@
       "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2047.pdf",
       "checklist_sha256": "e03d988b7f10db8ba0279531cddf7ffcc5a55158f3a042e6e68a1c32768b83ec",
       "business": "GoalDaddy Breaks LLC"
+    },
+    {
+      "id": "10002",
+      "series": "46",
+      "sealed_at": "2025-10-10T14:00:00-07:00",
+      "label": "Series 46 — Batch 10002",
+      "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1463456591&single=true&output=csv",
+      "sha256": "7d6ae27476da292e30312f28fe612a94e1d027be56eb9cbf1159d0f547118caf",
+      "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e96d7c158e93553b35a671_Series46_BatchLog_10002_PUBLISHED.pdf",
+      "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e96d7c7881ae09b41b43d5_Series46_TransferLog_10002_PUBLISHED.pdf",
+      "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e96dc37029522b57076a82_8a5cdda0d391261ac5916d369e0d0eb5_hash-series46.txt",
+      "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2046.pdf",
+      "checklist_sha256": "d7eaffcf5e4c6b931988e88209f269d444038d8282af1d0c6197beefb2ade207",
+      "business": "GoalDaddy Breaks LLC"
+    },
+    {
+      "id": "10001",
+      "series": "45",
+      "sealed_at": "2025-10-02T14:00:00-07:00",
+      "label": "Series 45 — Batch 10001",
+      "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=0&single=true&output=csv",
+      "sha256": "7223e607b4ab4af72b31a97a19603e862e9352c5e8da77cf11e71afe1abefb28",
+      "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e5da74c0c53b77e96ff678_Series45_BatchLog_10001_PUBLISHED.pdf",
+      "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e5da745de73bd388c16497_Series45_TransferLog_10001_PUBLISHED.pdf",
+      "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e5da68a8ee011c5df107f1_hash-series45.txt",
+      "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2045.pdf",
+      "checklist_sha256": "73538abccb67d045216385a34d3223728bea44aa878bbaccb519caa272a858c6",
+      "business": "GoalDaddy Breaks LLC"
+    },
+    {
+      "id": "10000",
+      "series": "44",
+      "sealed_at": "2025-09-23T14:00:00-07:00",
+      "label": "Series 44 — Batch 10000",
+      "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1366643341&single=true&output=csv",
+      "sha256": "13aa1f7be60f643446ce804941c2a46e02938cd2069663a37f260aeac68c676b",
+      "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e805097f73f45c7ae4172b_Series44_BatchLog_10000_PUBLISHED.pdf",
+      "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e8050967ff165fa5d6edc2_Series44_TransferLog_10000_PUBLISHED.pdf",
+      "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e806f3aea2ce7c3ea477e5_hash-series44.txt",
+      "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2044.pdf",
+      "checklist_sha256": "eea23f8951844f3fdfccf808f3aed85b8adf8f733e5e8aa0eb3c81cee9906df1",
+      "business": "GoalDaddy Breaks LLC"
+    },
+    {
+      "id": "9999",
+      "series": "43",
+      "sealed_at": "2025-09-15T14:00:00-07:00",
+      "label": "Series 43 — Batch 9999",
+      "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1512433737&single=true&output=csv",
+      "sha256": "f85c03a6d1903b8a878088d62fc4d34cd82c0a6d6cb59cc638ec9ff4d701b774",
+      "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e80581da5177a253f1e9a6_Series43_BatchLog_9999_PUBLISHED.pdf",
+      "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e805811453d29f9afc1440_Series43_TransferLog_9999_PUBLISHED.pdf",
+      "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e80712b6484e60c1c22675_hash-series43.txt",
+      "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2043.pdf",
+      "checklist_sha256": "0069006b218d9424ef58ad6478d4fdfea1f5c9479644c36cb43460fde2126d91",
+      "business": "GoalDaddy Breaks LLC"
+    },
+    {
+      "id": "9998",
+      "series": "42",
+      "sealed_at": "2025-09-08T14:00:00-07:00",
+      "label": "Series 42 — Batch 9998",
+      "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1128154540&single=true&output=csv",
+      "sha256": "d770522f90c360ba7d13a00ba07825efdb8cfc12086f40fda6d24ada62afd632",
+      "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e805be9ce1b0be62e1dd23_Series42_BatchLog_9998_PUBLISHED.pdf",
+      "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e805be4680fb3887f76705_Series42_TransferLog_9998_PUBLISHED.pdf",
+      "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e80722ef7eb3004148a3fa_hash-series42.txt",
+      "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2042.pdf",
+      "checklist_sha256": "1250de5acdbe1e77079548af7cd83907c240261bc2354644b2e5f87761224bf5",
+      "business": "GoalDaddy Breaks LLC"
+    },
+    {
+      "id": "9997",
+      "series": "41",
+      "sealed_at": "2025-09-01T14:00:00-07:00",
+      "label": "Series 41 — Batch 9997",
+      "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=262147871&single=true&output=csv",
+      "sha256": "6f709d6004288cf591521b5cf002249262093f86af4a0046742bcf329f15c196",
+      "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e805f0eabf0abb4d187c6b_Series41_BatchLog_9997_PUBLISHED.pdf",
+      "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e805f08c5d7fe102570040_Series41_TransferLog_9997_PUBLISHED.pdf",
+      "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e8073ad96215d445ab5382_hash-series41.txt",
+      "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2041.pdf",
+      "checklist_sha256": "05baf2a97123794cfa6e8c13169b74893f0e65ec36b7f948db81a6bda3eb33ec",
+      "business": "GoalDaddy Breaks LLC"
     }
   ],
   "invoices": [
@@ -112,6 +196,34 @@
       "business": "GoalDaddy Breaks LLC",
       "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68fd343072236be607688de1_Invoice%20-%20SF-46-001.pdf",
       "sha256": "7a3c34817bc61a2bc9966d39bf1b3abbbad59cbc3390b3f3fe7e832c894f2b7b"
+    },
+    {
+      "series": 47,
+      "invoice_id": "SF-46-002",
+      "business": "GoalDaddy Breaks LLC",
+      "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68fd348173ae17d80b658a37_Invoice%20-%20SF-46-002.pdf",
+      "sha256": "2c392ba3bae30543a694fb2865ce7787b8f5590a68e46238ed51f0b21e1cdf82"
+    },
+    {
+      "series": 48,
+      "invoice_id": "SF-46-003",
+      "business": "GoalDaddy Breaks LLC",
+      "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68fd348c7cc7f6f19fb15e2c_Invoice%20-%20SF-46-003.pdf",
+      "sha256": "ba446dd675d657176536fae49640e9dd297c2ffaeee05e08662f0cd4ed9986db"
+    },
+    {
+      "series": 49,
+      "invoice_id": "Outstanding",
+      "business": "GoalDaddy Breaks LLC",
+      "pdf_url": "",
+      "sha256": ""
+    },
+    {
+      "series": 50,
+      "invoice_id": "SF-46-005",
+      "business": "GoalDaddy Breaks LLC",
+      "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68fd34a37cceddc211965de4_Invoice%20-%20SF-46-005.pdf",
+      "sha256": "58a59021161fd7d82d907ed9d94260285d4f8985d8e2f0320cf034a0d8b703d3"
     }
   ]
 }
