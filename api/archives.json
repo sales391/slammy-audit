@@ -203,35 +203,42 @@
       "invoice_id": "SF-46-001",
       "business": "GoalDaddy Breaks LLC",
       "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68fd343072236be607688de1_Invoice%20-%20SF-46-001.pdf",
-      "sha256": "7a3c34817bc61a2bc9966d39bf1b3abbbad59cbc3390b3f3fe7e832c894f2b7b"
+      "sha256": "7a3c34817bc61a2bc9966d39bf1b3abbbad59cbc3390b3f3fe7e832c894f2b7b",
+      "status": "paid"
     },
     {
       "series": 47,
       "invoice_id": "SF-46-002",
       "business": "GoalDaddy Breaks LLC",
       "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68fd348173ae17d80b658a37_Invoice%20-%20SF-46-002.pdf",
-      "sha256": "2c392ba3bae30543a694fb2865ce7787b8f5590a68e46238ed51f0b21e1cdf82"
+      "sha256": "2c392ba3bae30543a694fb2865ce7787b8f5590a68e46238ed51f0b21e1cdf82",
+      "status": "paid"
     },
     {
       "series": 48,
       "invoice_id": "SF-46-003",
       "business": "GoalDaddy Breaks LLC",
       "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68fd348c7cc7f6f19fb15e2c_Invoice%20-%20SF-46-003.pdf",
-      "sha256": "ba446dd675d657176536fae49640e9dd297c2ffaeee05e08662f0cd4ed9986db"
-    },
-    {
-      "series": 49,
-      "invoice_id": "Outstanding",
-      "business": "GoalDaddy Breaks LLC",
-      "pdf_url": "",
-      "sha256": ""
+      "sha256": "ba446dd675d657176536fae49640e9dd297c2ffaeee05e08662f0cd4ed9986db",
+      "status": "paid"
     },
     {
       "series": 50,
+      "label": "Series 50 Divvy",
+      "invoice_id": "SF-46-004",
+      "business": "GoalDaddy Breaks LLC",
+      "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/690cefc1088bb21bff6bbe69_Invoice%20-%20SF-46-004.pdf",
+      "sha256": "5bcec4c02498ae9e2f3af781f8049ca929f29fcfe5ced4873cc414411349f77f",
+      "status": "paid"
+    },
+    {
+      "series": 50,
+      "label": "Series 50 Team",
       "invoice_id": "SF-46-005",
       "business": "GoalDaddy Breaks LLC",
       "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68fd34a37cceddc211965de4_Invoice%20-%20SF-46-005.pdf",
-      "sha256": "58a59021161fd7d82d907ed9d94260285d4f8985d8e2f0320cf034a0d8b703d3"
+      "sha256": "58a59021161fd7d82d907ed9d94260285d4f8985d8e2f0320cf034a0d8b703d3",
+      "status": "paid"
     }
   ]
 }
