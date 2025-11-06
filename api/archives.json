@@ -29,6 +29,16 @@
       ]
     }
   ],
+  "separation_attestations": [
+    {
+      "business": "GoalDaddy Breaks LLC",
+      "manufacturer_name": "Slammy Factory LLC",
+      "seller_name": "GoalDaddy Breaks LLC",
+      "entities_note": "Separate legal entities; EINs on file; independent managers.",
+      "locations_note": "Manufacturing: 123 Plant Rd, Suite A (restricted); Sales: 45 Main St, 2F.",
+      "non_participation_policy": "Sellers do not participate in creation/sealing. Access is role-based and covered by NDAs."
+    }
+  ],
   "batches": [
     {
       "id": "10006",
@@ -41,7 +51,10 @@
       "transfer_log_pdf": "https://drive.google.com/uc?export=download&id=1rEb2L0nkH_uxi8jzYd7WGbMcgQhhRO_8",
       "checklist_pdf": "https://drive.google.com/uc?export=download&id=1-gRBSFeOp5rjOEm8MfDny5EFMB8tTUtA",
       "checklist_sha256": "ad71ab56007c34d75ebadd775613e91d387af8ec3a88148b3f2ef248a9675c99",
-      "business": "GoalDaddy Breaks LLC"
+      "business": "GoalDaddy Breaks LLC",
+      "sop_url": "https://drive.google.com/file/d/1oZqWulMKUUTeQePxaXuOU1APZKIYrH0e/view?usp=drive_link",
+      "seal_spec_url": "",
+      "qc_summary": "5% sample (25 packs), 0 defects, verified by J.S. on 2025-11-05 09:35 PT"
     },
     {
       "id": "10005",
@@ -208,3 +221,4 @@
     }
   ]
 }
+
