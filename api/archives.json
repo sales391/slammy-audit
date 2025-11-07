@@ -31,32 +31,29 @@
         "url": "https://drive.google.com/uc?export=download&id=1846nRvyi3suWX3ROGM-s79aUvcyNbdLV",
         "sha256": "fdc3bbb395a243658ac6ab2387f2905d85d9e82257e20bf18fc2504a206f6410",
         "bytes": 64308,
-        "parents": [
-          "checklist_csv",
-          "checklist_pdf"
-        ]
+        "parents": ["checklist_csv", "checklist_pdf"]
       },
       {
         "type": "transfer_log_pdf",
         "url": "https://drive.google.com/uc?export=download&id=1cVJaIQdutxAD1ofs6CrQw7l8LFCm3U_H",
         "sha256": "74447ae9c8b678659c204bca8331c1c09d246f97dee373eeddbdd9a1f1e9e423",
         "bytes": 61781,
-        "parents": [
-          "batch_log_pdf"
-        ]
+        "parents": ["batch_log_pdf"]
       }
     ],
     "integrity": {
       "root": "f73e1454c06e502c6d19cb9a456026982b21a820ff8cb58a8d13886862da0168",
       "root_algo": "sha256-of-concatenated-artifact-hashes"
-    }
+    },
+    "sop_url": "https://drive.google.com/file/d/1TvzJ_kfJsEZ4bIZAQGL-P6PdmNL4_SZt/view?usp=sharing",
+    "seal_spec_url": "https://drive.google.com/file/d/18M7SVk5trS81mQZqmXmObCs05EitYDp3/view?usp=sharing",
+    "qc_summary": "5% sample (25 packs), 0 defects, verified by C.G. on 2025-11-07 09:35 PT",
+    "business": "GoalDaddy Breaks LLC"
   },
   {
     "version": 2,
     "generated_at": "2025-11-05T22:00:00Z",
-    "businesses": [
-      "GoalDaddy Breaks LLC"
-    ],
+    "businesses": ["GoalDaddy Breaks LLC"],
     "compliance": [
       {
         "business": "GoalDaddy Breaks LLC",
@@ -109,6 +106,22 @@
       }
     ],
     "batches": [
+      {
+        "id": "10007",
+        "series": "51",
+        "sealed_at": "2025-11-07T01:30:56.608Z",
+        "label": "Series 51 – Batch 10007",
+        "csv_url": "https://drive.google.com/uc?export=download&id=10bipJ6-L8pApVidakraCxnTGJgV4IYas",
+        "sha256": "ea0b9bc178e739aa2fb1642673f9c4aede77707f40480374bc4ab0ad31abc28e",
+        "batch_log_pdf": "https://drive.google.com/uc?export=download&id=1846nRvyi3suWX3ROGM-s79aUvcyNbdLV",
+        "transfer_log_pdf": "https://drive.google.com/uc?export=download&id=1cVJaIQdutxAD1ofs6CrQw7l8LFCm3U_H",
+        "checklist_pdf": "https://drive.google.com/uc?export=download&id=1esH6l7YkuL_dqQe3efl1w21Basiw3aWk",
+        "checklist_sha256": "81639e43bdd2754165728eb655ada80f926c67e973055b38e8b97fdc024d995a",
+        "business": "GoalDaddy Breaks LLC",
+        "sop_url": "https://drive.google.com/file/d/1TvzJ_kfJsEZ4bIZAQGL-P6PdmNL4_SZt/view?usp=sharing",
+        "seal_spec_url": "https://drive.google.com/file/d/18M7SVk5trS81mQZqmXmObCs05EitYDp3/view?usp=sharing",
+        "qc_summary": "5% sample (25 packs), 0 defects, verified by C.G. on 2025-11-07 09:35 PT"
+      },
       {
         "id": "10006",
         "series": "50",
@@ -263,6 +276,8 @@
       }
     ]
   }
+]
+
 ]
 
 
