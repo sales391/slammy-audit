@@ -1,5 +1,57 @@
 [
   {
+    "series": "Series 52",
+    "revision": "2025-11-10T133305",
+    "published_at": "2025-11-10T21:33:08.537Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "batch_id": "10007",
+    "batchId": "10007",
+    "sealed_at_iso": "2025-11-10T21:31:31.442Z",
+    "transfer_at_iso": "",
+    "to_entity": "GoalDaddy Breaks (Santa Clarita, CA)",
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://drive.google.com/uc?export=download&id=1N2n1c0KyM5PnbA29CBLKafKcTNQXzTP8",
+        "sha256": "b8a07f2d5904f1933f9aefe38dda67cc783bfd9130fb388229cfe606e1194fe5",
+        "bytes": 4527
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1w9IBeW-Q9fwmH7kWiBDVTh-0WK_cANQ7",
+        "sha256": "afc043781c3ed3e932b1d163adbf01cc5315114ef75a067033ad4d0f26b202bf",
+        "bytes": 118544
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1yNMN-gXXo6tEmQleYTA5zD8wiLVaS_4n",
+        "sha256": "653bf0294a8b620bc08707bd25e2e01c53845639377395c6820c270ab7fa6c05",
+        "bytes": 63824,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1SdWP_p0BIkEWJYcq1vEaY7u0ylvJB1ll",
+        "sha256": "a5ddfdc5bcbf0137d17cb7a57a1be77523c78456cf0e79bb04b6992ac296bfbd",
+        "bytes": 61939,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "fd288b1b3bea821eec0a93a43c461fa7653700dcc4378e315fdfe1db644d4e59",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    }
+  },
+  {
     "series": "Series 51",
     "revision": "2025-11-06T173228",
     "published_at": "2025-11-07T01:32:32.052Z",
@@ -31,14 +83,19 @@
         "url": "https://drive.google.com/uc?export=download&id=1846nRvyi3suWX3ROGM-s79aUvcyNbdLV",
         "sha256": "fdc3bbb395a243658ac6ab2387f2905d85d9e82257e20bf18fc2504a206f6410",
         "bytes": 64308,
-        "parents": ["checklist_csv", "checklist_pdf"]
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
       },
       {
         "type": "transfer_log_pdf",
         "url": "https://drive.google.com/uc?export=download&id=1cVJaIQdutxAD1ofs6CrQw7l8LFCm3U_H",
         "sha256": "74447ae9c8b678659c204bca8331c1c09d246f97dee373eeddbdd9a1f1e9e423",
         "bytes": 61781,
-        "parents": ["batch_log_pdf"]
+        "parents": [
+          "batch_log_pdf"
+        ]
       }
     ],
     "integrity": {
@@ -53,7 +110,9 @@
   {
     "version": 2,
     "generated_at": "2025-11-05T22:00:00Z",
-    "businesses": ["GoalDaddy Breaks LLC"],
+    "businesses": [
+      "GoalDaddy Breaks LLC"
+    ],
     "compliance": [
       {
         "business": "GoalDaddy Breaks LLC",
@@ -110,7 +169,7 @@
         "id": "10007",
         "series": "51",
         "sealed_at": "2025-11-07T01:30:56.608Z",
-        "label": "Series 51 – Batch 10007",
+        "label": "Series 51 ? Batch 10007",
         "csv_url": "https://drive.google.com/uc?export=download&id=10bipJ6-L8pApVidakraCxnTGJgV4IYas",
         "sha256": "ea0b9bc178e739aa2fb1642673f9c4aede77707f40480374bc4ab0ad31abc28e",
         "batch_log_pdf": "https://drive.google.com/uc?export=download&id=1846nRvyi3suWX3ROGM-s79aUvcyNbdLV",
@@ -126,7 +185,7 @@
         "id": "10006",
         "series": "50",
         "sealed_at": "2025-11-05T01:07:51.049Z",
-        "label": "Series 50 – Batch 10006",
+        "label": "Series 50 ? Batch 10006",
         "csv_url": "https://drive.google.com/uc?export=download&id=1vyRFdJ6cRjgF8akiwKB7jje-dOQch3PZ",
         "sha256": "0f107eb269583114352fb242b68f82caaf457134b671afdca73ab69a1be9e404",
         "batch_log_pdf": "https://drive.google.com/uc?export=download&id=1ePBROPv9fkntlVeTxvCPEdAOzITf5wTL",
@@ -142,7 +201,7 @@
         "id": "10005",
         "series": "49",
         "sealed_at": "2025-10-23T14:00:00-07:00",
-        "label": "Series 49 – Batch 10005",
+        "label": "Series 49 ? Batch 10005",
         "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1813460334&single=true&output=csv",
         "sha256": "559d28b0a6fd74f61e611bd7e1320aab7d9a4a3e7f81d76b47d33d8c3b6eee17",
         "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68faaa28914da06f8f59f7e7_1000549.pdf",
@@ -156,7 +215,7 @@
         "id": "10004",
         "series": "48",
         "sealed_at": "2025-10-21T14:00:00-07:00",
-        "label": "Series 48 – Batch 10004",
+        "label": "Series 48 ? Batch 10004",
         "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1465289833&single=true&output=csv",
         "sha256": "766603ace4473074ffe2b3299d79936448f4ad7bc41e99f212d03b11c6daab32",
         "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68f8169f180d27cd5cbeefae_SlammyFactory_BatchLog_10004_Series48.pdf",
@@ -170,7 +229,7 @@
         "id": "10003",
         "series": "47",
         "sealed_at": "2025-10-16T14:00:00-07:00",
-        "label": "Series 47 – Batch 10003",
+        "label": "Series 47 ? Batch 10003",
         "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1141171062&single=true&output=csv",
         "sha256": "e154e8f6738b38dac9379dd68254ed40e5d3b579fc910dc7017324a1cf579940",
         "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68f17a1fc6b4996f1a6ead1e_Series47_BatchLog_10003_PUBLISHED.pdf",
@@ -184,7 +243,7 @@
         "id": "10002",
         "series": "46",
         "sealed_at": "2025-10-10T14:00:00-07:00",
-        "label": "Series 46 – Batch 10002",
+        "label": "Series 46 ? Batch 10002",
         "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1463456591&single=true&output=csv",
         "sha256": "7d6ae27476da292e30312f28fe612a94e1d027be56eb9cbf1159d0f547118caf",
         "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e96d7c158e93553b35a671_Series46_BatchLog_10002_PUBLISHED.pdf",
@@ -198,7 +257,7 @@
         "id": "10001",
         "series": "45",
         "sealed_at": "2025-10-02T14:00:00-07:00",
-        "label": "Series 45 – Batch 10001",
+        "label": "Series 45 ? Batch 10001",
         "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=0&single=true&output=csv",
         "sha256": "7223e607b4ab4af72b31a97a19603e862e9352c5e8da77cf11e71afe1abefb28",
         "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e5da74c0c53b77e96ff678_Series45_BatchLog_10001_PUBLISHED.pdf",
@@ -212,7 +271,7 @@
         "id": "10000",
         "series": "44",
         "sealed_at": "2025-09-23T14:00:00-07:00",
-        "label": "Series 44 – Batch 10000",
+        "label": "Series 44 ? Batch 10000",
         "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1366643341&single=true&output=csv",
         "sha256": "13aa1f7be60f643446ce804941c2a46e02938cd2069663a37f260aeac68c676b",
         "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e805097f73f45c7ae4172b_Series44_BatchLog_10000_PUBLISHED.pdf",
