@@ -1,6 +1,58 @@
 [
   {
     "series": "Series 53",
+    "revision": "2025-11-12T154918",
+    "published_at": "2025-11-12T23:49:21.127Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "batch_id": "10008",
+    "batchId": "10008",
+    "sealed_at_iso": "2025-11-12T23:48:28.275Z",
+    "transfer_at_iso": "",
+    "to_entity": "GoalDaddy Breaks (Santa Clarita, CA)",
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://drive.google.com/uc?export=download&id=1_rFDS4ClhJFom4hWqwC8-pd49wJLPKwf",
+        "sha256": "bc98cd0a6d32bb9b3ec00219bf327aef6b0ae29cc6a7ef50f5793a480d483dce",
+        "bytes": 4519
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1hUAVw2LoE6bgJ3T49pO6C4pCIst_8qGS",
+        "sha256": "7f8d1bdfb2701735e29daf2354ac5a5683cf7787a6f350d1be3281229a34226d",
+        "bytes": 117582
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1ZG2v78yhMfiYcksWolkez225v2mtfEhL",
+        "sha256": "c6313fd53abff1aeae2de4eb1175d5819b19307b2aaf945f55d05a944c96c845",
+        "bytes": 63721,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1egDeOZ29f0WUQFaYObb5YS_5IRcCKe1Z",
+        "sha256": "ca6a96cac1e59fd23f1a44e1c6209439fa11eb40c2c20c0395930c8840d5cf2f",
+        "bytes": 62432,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "8f0570503a96c1d7cae753e99e66e5302633db9873992365e920a26028bc984b",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    }
+  },
+  {
+    "series": "Series 53",
     "revision": "2025-11-12T130627",
     "published_at": "2025-11-12T21:06:30.392Z",
     "source": {
