@@ -1,36 +1,36 @@
 [
   {
-    "series": "Series 54",
-    "revision": "2025-11-13T132431",
-    "published_at": "2025-11-13T21:24:33.832Z",
+    "series": "Series 53",
+    "revision": "2025-11-12T155428",
+    "published_at": "2025-11-12T23:54:31.850Z",
     "source": {
       "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
       "tab_gid": 996686463,
       "generator": "Show Build Dashboard"
     },
-    "batch_id": "10009",
-    "batchId": "10009",
-    "sealed_at_iso": "2025-11-13T21:23:46.459Z",
+    "batch_id": "10008",
+    "batchId": "10008",
+    "sealed_at_iso": "2025-11-12T23:53:45.465Z",
     "transfer_at_iso": "",
     "to_entity": "GoalDaddy Breaks (Santa Clarita, CA)",
     "artifacts": [
       {
         "type": "checklist_csv",
-        "url": "https://drive.google.com/uc?export=download&id=1m34aEcB5swPugjbhUNFrOUc1vtLXkQ7n",
-        "sha256": "b1c69e5eb79f75174ab56c5f09c3bfa30315453beacae57028834fdd14d35335",
-        "bytes": 2440
+        "url": "https://drive.google.com/uc?export=download&id=1duMuabEZ7aRgclVaQvM3nfYOZMzTF58z",
+        "sha256": "fcdebe34b9f60d8f7b06ff0d24db089a9f65f0233b0847402f1dd731153eac9b",
+        "bytes": 4519
       },
       {
         "type": "checklist_pdf",
-        "url": "https://drive.google.com/uc?export=download&id=1Nx5rJBz3GFOPWBjZkLhokngHek7STCa5",
-        "sha256": "1fa1f908bc75b6341b23331e2335c61d00fe1d2f0daebaafdd94080d53d225e3",
-        "bytes": 83320
+        "url": "https://drive.google.com/uc?export=download&id=1EpC1_u6evBzRyh2eDQPZyyOEkRapXdl_",
+        "sha256": "ea58ff810173e79f0e8db1bbdb54ab037b4ff7110b3140ab685dc24d33f9d347",
+        "bytes": 117803
       },
       {
         "type": "batch_log_pdf",
-        "url": "https://drive.google.com/uc?export=download&id=1cby6xk2WojHAYNX2K25YP81LAT3WBDpk",
-        "sha256": "02b9d24a3f9ab529fc7772e6ed7780f2ba78608fc7b17fc5b70783b4915728c8",
-        "bytes": 64095,
+        "url": "https://drive.google.com/uc?export=download&id=1q8Q7h31E317ZgteUGl2T9yD0sWTchKcL",
+        "sha256": "f957223d8cd65c545e0cdc906a7110549eb04d3379339d62f5b547e443d28fc8",
+        "bytes": 64183,
         "parents": [
           "checklist_csv",
           "checklist_pdf"
@@ -38,17 +38,466 @@
       },
       {
         "type": "transfer_log_pdf",
-        "url": "https://drive.google.com/uc?export=download&id=1m4ryjhEPAk1HhrItDRksExE67CTA0dxN",
-        "sha256": "2f12f42edde2bb5814812f3f07c1c055a4c7136843c1d02a8483fa3ffadbd13e",
-        "bytes": 60931,
+        "url": "https://drive.google.com/uc?export=download&id=13K3qx3JHzYMcGLtYPteH7k7lYsZEKbJq",
+        "sha256": "0d19491e43dc0ea264128aaf26419eb46c5b909f28dff582d243b62191324374",
+        "bytes": 62424,
         "parents": [
           "batch_log_pdf"
         ]
       }
     ],
     "integrity": {
-      "root": "e0d9121050b31f96d816b96aff41ba393851a615b985b07d60559f591d93c430",
+      "root": "f19f52ffb0988cbb3c7325dda6ae320e2d743c7a54cc7ecf1eec1eb89ddd571c",
       "root_algo": "sha256-of-concatenated-artifact-hashes"
     }
+  },
+  {
+    "series": "Series 53",
+    "revision": "2025-11-12T154918",
+    "published_at": "2025-11-12T23:49:21.127Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "batch_id": "10008",
+    "batchId": "10008",
+    "sealed_at_iso": "2025-11-12T23:48:28.275Z",
+    "transfer_at_iso": "",
+    "to_entity": "GoalDaddy Breaks (Santa Clarita, CA)",
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://drive.google.com/uc?export=download&id=1_rFDS4ClhJFom4hWqwC8-pd49wJLPKwf",
+        "sha256": "bc98cd0a6d32bb9b3ec00219bf327aef6b0ae29cc6a7ef50f5793a480d483dce",
+        "bytes": 4519
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1hUAVw2LoE6bgJ3T49pO6C4pCIst_8qGS",
+        "sha256": "7f8d1bdfb2701735e29daf2354ac5a5683cf7787a6f350d1be3281229a34226d",
+        "bytes": 117582
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1ZG2v78yhMfiYcksWolkez225v2mtfEhL",
+        "sha256": "c6313fd53abff1aeae2de4eb1175d5819b19307b2aaf945f55d05a944c96c845",
+        "bytes": 63721,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1egDeOZ29f0WUQFaYObb5YS_5IRcCKe1Z",
+        "sha256": "ca6a96cac1e59fd23f1a44e1c6209439fa11eb40c2c20c0395930c8840d5cf2f",
+        "bytes": 62432,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "8f0570503a96c1d7cae753e99e66e5302633db9873992365e920a26028bc984b",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    }
+  },
+  {
+    "series": "Series 53",
+    "revision": "2025-11-12T130627",
+    "published_at": "2025-11-12T21:06:30.392Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "batch_id": "10008",
+    "batchId": "10008",
+    "sealed_at_iso": "2025-11-12T21:05:19.926Z",
+    "transfer_at_iso": "",
+    "to_entity": "GoalDaddy Breaks (Santa Clarita, CA)",
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://drive.google.com/uc?export=download&id=16UrjrW_AqDQ5VoNwg4Ha2X4NEo_zeKmb",
+        "sha256": "bc98cd0a6d32bb9b3ec00219bf327aef6b0ae29cc6a7ef50f5793a480d483dce",
+        "bytes": 4519
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=13YkJW62yl0-HfBsJHdkBz7mCvFA_W5Ms",
+        "sha256": "7ff2fc71ec61e441770559b2533ab46a3dfbcd5d635fc811c53c0887f314702b",
+        "bytes": 117577
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1sYkw2X9_HR_mU1I2dprZFAUXgOW-AbrR",
+        "sha256": "ee1cb30d277804eaaf200441009d21b46e4c54b61f3483fd0b8c1b759cab45ff",
+        "bytes": 64162,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1OC0rQerGAWm-tg8DnZgFmS7H6TD7QCS4",
+        "sha256": "3cb1d47d2560d1488c891a0cf4a48e3f686a5d16f7e59e7a8223a783091c6453",
+        "bytes": 62413,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "e3008838ddd8c96d91d495b438843e2cf4fee5ebfa58862b10ccae6a4f5cf165",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    }
+  },
+  {
+    "series": "Series 52",
+    "revision": "2025-11-10T133305",
+    "published_at": "2025-11-10T21:33:08.537Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "batch_id": "10007",
+    "batchId": "10007",
+    "sealed_at_iso": "2025-11-10T21:31:31.442Z",
+    "transfer_at_iso": "",
+    "to_entity": "GoalDaddy Breaks (Santa Clarita, CA)",
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://drive.google.com/uc?export=download&id=1N2n1c0KyM5PnbA29CBLKafKcTNQXzTP8",
+        "sha256": "b8a07f2d5904f1933f9aefe38dda67cc783bfd9130fb388229cfe606e1194fe5",
+        "bytes": 4527
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1w9IBeW-Q9fwmH7kWiBDVTh-0WK_cANQ7",
+        "sha256": "afc043781c3ed3e932b1d163adbf01cc5315114ef75a067033ad4d0f26b202bf",
+        "bytes": 118544
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1yNMN-gXXo6tEmQleYTA5zD8wiLVaS_4n",
+        "sha256": "653bf0294a8b620bc08707bd25e2e01c53845639377395c6820c270ab7fa6c05",
+        "bytes": 63824,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1SdWP_p0BIkEWJYcq1vEaY7u0ylvJB1ll",
+        "sha256": "a5ddfdc5bcbf0137d17cb7a57a1be77523c78456cf0e79bb04b6992ac296bfbd",
+        "bytes": 61939,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "fd288b1b3bea821eec0a93a43c461fa7653700dcc4378e315fdfe1db644d4e59",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    }
+  },
+  {
+    "series": "Series 51",
+    "revision": "2025-11-06T173228",
+    "published_at": "2025-11-07T01:32:32.052Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "batch_id": "10007",
+    "batchId": "10007",
+    "sealed_at_iso": "2025-11-07T01:30:56.608Z",
+    "transfer_at_iso": "",
+    "to_entity": "GoalDaddy Breaks (Santa Clarita, CA)",
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://drive.google.com/uc?export=download&id=10bipJ6-L8pApVidakraCxnTGJgV4IYas",
+        "sha256": "ea0b9bc178e739aa2fb1642673f9c4aede77707f40480374bc4ab0ad31abc28e",
+        "bytes": 4493
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1esH6l7YkuL_dqQe3efl1w21Basiw3aWk",
+        "sha256": "81639e43bdd2754165728eb655ada80f926c67e973055b38e8b97fdc024d995a",
+        "bytes": 116539
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1846nRvyi3suWX3ROGM-s79aUvcyNbdLV",
+        "sha256": "fdc3bbb395a243658ac6ab2387f2905d85d9e82257e20bf18fc2504a206f6410",
+        "bytes": 64308,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1cVJaIQdutxAD1ofs6CrQw7l8LFCm3U_H",
+        "sha256": "74447ae9c8b678659c204bca8331c1c09d246f97dee373eeddbdd9a1f1e9e423",
+        "bytes": 61781,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "f73e1454c06e502c6d19cb9a456026982b21a820ff8cb58a8d13886862da0168",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    },
+    "sop_url": "https://drive.google.com/file/d/1TvzJ_kfJsEZ4bIZAQGL-P6PdmNL4_SZt/view?usp=sharing",
+    "seal_spec_url": "https://drive.google.com/file/d/18M7SVk5trS81mQZqmXmObCs05EitYDp3/view?usp=sharing",
+    "qc_summary": "5% sample (25 packs), 0 defects, verified by C.G. on 2025-11-07 09:35 PT",
+    "business": "GoalDaddy Breaks LLC"
+  },
+  {
+    "version": 2,
+    "generated_at": "2025-11-05T22:00:00Z",
+    "businesses": [
+      "GoalDaddy Breaks LLC"
+    ],
+    "compliance": [
+      {
+        "business": "GoalDaddy Breaks LLC",
+        "docs": [
+          {
+            "label": "NDA (10/01/2025)",
+            "url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68fd31980ddfca8070276a43_SlammyFactory_GoalDaddyBreaks_NDA_2025-10-01.pdf"
+          },
+          {
+            "label": "MSA (10/01/2025)",
+            "url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68fd31af41ce8fb6557be80a_SlammyFactory_GoalDaddyBreaks_MSA_2025-10-01.pdf"
+          },
+          {
+            "label": "QC Checklist v1.3 (10/06/2025)",
+            "url": "https://drive.google.com/file/d/1Dbnc5dBGDrvpqAvBeoAAb_lj1zqTUGew/view?usp=drive_link"
+          },
+          {
+            "label": "Separation of Duties SOP v1.3 (10/06/2025)",
+            "url": "https://drive.google.com/file/d/1oZqWulMKUUTeQePxaXuOU1APZKIYrH0e/view?usp=drive_link"
+          },
+          {
+            "label": "Manufacturing & Sealing SOP v1.3 (11/05/2025)",
+            "url": "https://drive.google.com/file/d/1TvzJ_kfJsEZ4bIZAQGL-P6PdmNL4_SZt/view?usp=sharing"
+          },
+          {
+            "label": "Tamper Seal Specification v1.1 (11/05/2025)",
+            "url": "https://drive.google.com/file/d/18M7SVk5trS81mQZqmXmObCs05EitYDp3/view?usp=sharing"
+          },
+          {
+            "label": "Facility Access Log v1.3 (10/06/2025)",
+            "url": "https://drive.google.com/file/d/1J65F_SGCS2wN4ZY1ebferfXFuCKqzngh/view?usp=drive_link"
+          }
+        ],
+        "facility_docs": [
+          {
+            "label": "Facility Access Log v1.3 (10/06/2025)",
+            "url": "https://drive.google.com/file/d/1J65F_SGCS2wN4ZY1ebferfXFuCKqzngh/view?usp=drive_link"
+          }
+        ]
+      }
+    ],
+    "separation_attestations": [
+      {
+        "business": "GoalDaddy Breaks LLC",
+        "manufacturer_name": "Slammy Factory LLC",
+        "seller_name": "GoalDaddy Breaks LLC",
+        "entities_note": "Separate legal entities; EINs on file; independent managers.",
+        "locations_note": "Manufacturing: 27201 Tourney Rd. Suite 200, Valencia, CA 91355 (restricted); Sales: 22388 Riverstream Ct. Santa Clarita, CA 91350",
+        "non_participation_policy": "Sellers do not participate in creation or sealing. Access is role-based and covered by NDAs."
+      }
+    ],
+    "batches": [
+      {
+        "id": "10007",
+        "series": "51",
+        "sealed_at": "2025-11-07T01:30:56.608Z",
+        "label": "Series 51 ? Batch 10007",
+        "csv_url": "https://drive.google.com/uc?export=download&id=10bipJ6-L8pApVidakraCxnTGJgV4IYas",
+        "sha256": "ea0b9bc178e739aa2fb1642673f9c4aede77707f40480374bc4ab0ad31abc28e",
+        "batch_log_pdf": "https://drive.google.com/uc?export=download&id=1846nRvyi3suWX3ROGM-s79aUvcyNbdLV",
+        "transfer_log_pdf": "https://drive.google.com/uc?export=download&id=1cVJaIQdutxAD1ofs6CrQw7l8LFCm3U_H",
+        "checklist_pdf": "https://drive.google.com/uc?export=download&id=1esH6l7YkuL_dqQe3efl1w21Basiw3aWk",
+        "checklist_sha256": "81639e43bdd2754165728eb655ada80f926c67e973055b38e8b97fdc024d995a",
+        "business": "GoalDaddy Breaks LLC",
+        "sop_url": "https://drive.google.com/file/d/1TvzJ_kfJsEZ4bIZAQGL-P6PdmNL4_SZt/view?usp=sharing",
+        "seal_spec_url": "https://drive.google.com/file/d/18M7SVk5trS81mQZqmXmObCs05EitYDp3/view?usp=sharing",
+        "qc_summary": "5% sample (25 packs), 0 defects, verified by C.G. on 2025-11-07 09:35 PT"
+      },
+      {
+        "id": "10006",
+        "series": "50",
+        "sealed_at": "2025-11-05T01:07:51.049Z",
+        "label": "Series 50 ? Batch 10006",
+        "csv_url": "https://drive.google.com/uc?export=download&id=1vyRFdJ6cRjgF8akiwKB7jje-dOQch3PZ",
+        "sha256": "0f107eb269583114352fb242b68f82caaf457134b671afdca73ab69a1be9e404",
+        "batch_log_pdf": "https://drive.google.com/uc?export=download&id=1ePBROPv9fkntlVeTxvCPEdAOzITf5wTL",
+        "transfer_log_pdf": "https://drive.google.com/uc?export=download&id=1rEb2L0nkH_uxi8jzYd7WGbMcgQhhRO_8",
+        "checklist_pdf": "https://drive.google.com/uc?export=download&id=1-gRBSFeOp5rjOEm8MfDny5EFMB8tTUtA",
+        "checklist_sha256": "ad71ab56007c34d75ebadd775613e91d387af8ec3a88148b3f2ef248a9675c99",
+        "business": "GoalDaddy Breaks LLC",
+        "sop_url": "https://drive.google.com/file/d/1TvzJ_kfJsEZ4bIZAQGL-P6PdmNL4_SZt/view?usp=sharing",
+        "seal_spec_url": "https://drive.google.com/file/d/18M7SVk5trS81mQZqmXmObCs05EitYDp3/view?usp=sharing",
+        "qc_summary": "5% sample (25 packs), 0 defects, verified by C.G. on 2025-11-05 09:35 PT"
+      },
+      {
+        "id": "10005",
+        "series": "49",
+        "sealed_at": "2025-10-23T14:00:00-07:00",
+        "label": "Series 49 ? Batch 10005",
+        "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1813460334&single=true&output=csv",
+        "sha256": "559d28b0a6fd74f61e611bd7e1320aab7d9a4a3e7f81d76b47d33d8c3b6eee17",
+        "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68faaa28914da06f8f59f7e7_1000549.pdf",
+        "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68faab2cfadc97aebef543b9_transfer49_compact.pdf",
+        "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68faaca2227afe649f22a607_hash-series49%20(1).txt",
+        "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2049.pdf",
+        "checklist_sha256": "26d1511fdb007a4b71d3696e7e52c71443110394109c1c75c097d45decab10e3",
+        "business": "GoalDaddy Breaks LLC"
+      },
+      {
+        "id": "10004",
+        "series": "48",
+        "sealed_at": "2025-10-21T14:00:00-07:00",
+        "label": "Series 48 ? Batch 10004",
+        "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1465289833&single=true&output=csv",
+        "sha256": "766603ace4473074ffe2b3299d79936448f4ad7bc41e99f212d03b11c6daab32",
+        "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68f8169f180d27cd5cbeefae_SlammyFactory_BatchLog_10004_Series48.pdf",
+        "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68f818527b9f9c95f532a8ac_SlammyFactory_TransferLog_10004_Series48_PUBLISHED%20(1).pdf",
+        "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68f8199f5b89084a6c221a45_hash-series48.txt",
+        "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2048.pdf",
+        "checklist_sha256": "86d92a13eaf8ec43d0a224e5c334373b80c199960cc571d120241af33a41ad4f",
+        "business": "GoalDaddy Breaks LLC"
+      },
+      {
+        "id": "10003",
+        "series": "47",
+        "sealed_at": "2025-10-16T14:00:00-07:00",
+        "label": "Series 47 ? Batch 10003",
+        "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1141171062&single=true&output=csv",
+        "sha256": "e154e8f6738b38dac9379dd68254ed40e5d3b579fc910dc7017324a1cf579940",
+        "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68f17a1fc6b4996f1a6ead1e_Series47_BatchLog_10003_PUBLISHED.pdf",
+        "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68f17b97a0a5a797bd21bf31_Series47_TransferLog_10003_PUBLISHED.pdf",
+        "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68f17d1012fb355128ed5e0e_hash-series47.txt",
+        "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2047.pdf",
+        "checklist_sha256": "e03d988b7f10db8ba0279531cddf7ffcc5a55158f3a042e6e68a1c32768b83ec",
+        "business": "GoalDaddy Breaks LLC"
+      },
+      {
+        "id": "10002",
+        "series": "46",
+        "sealed_at": "2025-10-10T14:00:00-07:00",
+        "label": "Series 46 ? Batch 10002",
+        "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1463456591&single=true&output=csv",
+        "sha256": "7d6ae27476da292e30312f28fe612a94e1d027be56eb9cbf1159d0f547118caf",
+        "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e96d7c158e93553b35a671_Series46_BatchLog_10002_PUBLISHED.pdf",
+        "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e96d7c7881ae09b41b43d5_Series46_TransferLog_10002_PUBLISHED.pdf",
+        "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e96dc37029522b57076a82_8a5cdda0d391261ac5916d369e0d0eb5_hash-series46.txt",
+        "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2046.pdf",
+        "checklist_sha256": "d7eaffcf5e4c6b931988e88209f269d444038d8282af1d0c6197beefb2ade207",
+        "business": "GoalDaddy Breaks LLC"
+      },
+      {
+        "id": "10001",
+        "series": "45",
+        "sealed_at": "2025-10-02T14:00:00-07:00",
+        "label": "Series 45 ? Batch 10001",
+        "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=0&single=true&output=csv",
+        "sha256": "7223e607b4ab4af72b31a97a19603e862e9352c5e8da77cf11e71afe1abefb28",
+        "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e5da74c0c53b77e96ff678_Series45_BatchLog_10001_PUBLISHED.pdf",
+        "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e5da745de73bd388c16497_Series45_TransferLog_10001_PUBLISHED.pdf",
+        "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e5da68a8ee011c5df107f1_hash-series45.txt",
+        "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2045.pdf",
+        "checklist_sha256": "73538abccb67d045216385a34d3223728bea44aa878bbaccb519caa272a858c6",
+        "business": "GoalDaddy Breaks LLC"
+      },
+      {
+        "id": "10000",
+        "series": "44",
+        "sealed_at": "2025-09-23T14:00:00-07:00",
+        "label": "Series 44 ? Batch 10000",
+        "csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvx3EF5s24lms8UCfg4-PiFXTOsvQ5L5mmOXR1ZlbnDhRsxc_4tc4o9acQbJq5dTG9TKj_13vdoWJV/pub?gid=1366643341&single=true&output=csv",
+        "sha256": "13aa1f7be60f643446ce804941c2a46e02938cd2069663a37f260aeac68c676b",
+        "batch_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e805097f73f45c7ae4172b_Series44_BatchLog_10000_PUBLISHED.pdf",
+        "transfer_log_pdf": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e8050967ff165fa5d6edc2_Series44_TransferLog_10000_PUBLISHED.pdf",
+        "hash_txt": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68e806f3aea2ce7c3ea477e5_hash-series44.txt",
+        "checklist_pdf": "https://raw.githubusercontent.com/sales391/slammy-audit/main/Slammy%20Factory%20Checklists%20-%20Series%2044.pdf",
+        "checklist_sha256": "eea23f8951844f3fdfccf808f3aed85b8adf8f733e5e8aa0eb3c81cee9906df1",
+        "business": "GoalDaddy Breaks LLC"
+      }
+    ],
+    "invoices": [
+      {
+        "series": 46,
+        "invoice_id": "SF-46-001",
+        "business": "GoalDaddy Breaks LLC",
+        "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68fd343072236be607688de1_Invoice%20-%20SF-46-001.pdf",
+        "sha256": "7a3c34817bc61a2bc9966d39bf1b3abbbad59cbc3390b3f3fe7e832c894f2b7b",
+        "status": "paid"
+      },
+      {
+        "series": 47,
+        "invoice_id": "SF-46-002",
+        "business": "GoalDaddy Breaks LLC",
+        "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68fd348173ae17d80b658a37_Invoice%20-%20SF-46-002.pdf",
+        "sha256": "2c392ba3bae30543a694fb2865ce7787b8f5590a68e46238ed51f0b21e1cdf82",
+        "status": "paid"
+      },
+      {
+        "series": 48,
+        "invoice_id": "SF-46-003",
+        "business": "GoalDaddy Breaks LLC",
+        "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68fd348c7cc7f6f19fb15e2c_Invoice%20-%20SF-46-003.pdf",
+        "sha256": "ba446dd675d657176536fae49640e9dd297c2ffaeee05e08662f0cd4ed9986db",
+        "status": "paid"
+      },
+      {
+        "series": 50,
+        "label": "Series 50 Divvy",
+        "invoice_id": "SF-46-004",
+        "business": "GoalDaddy Breaks LLC",
+        "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/690cefc1088bb21bff6bbe69_Invoice%20-%20SF-46-004.pdf",
+        "sha256": "5bcec4c02498ae9e2f3af781f8049ca929f29fcfe5ced4873cc414411349f77f",
+        "status": "paid"
+      },
+      {
+        "series": 50,
+        "label": "Series 50 Team",
+        "invoice_id": "SF-46-005",
+        "business": "GoalDaddy Breaks LLC",
+        "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/68fd34a37cceddc211965de4_Invoice%20-%20SF-46-005.pdf",
+        "sha256": "58a59021161fd7d82d907ed9d94260285d4f8985d8e2f0320cf034a0d8b703d3",
+        "status": "paid"
+      },
+      {
+        "series": 51,
+        "invoice_id": "SF-46-006",
+        "business": "GoalDaddy Breaks LLC",
+        "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/690e443fda82d9c122e22e03_Invoice%20-%20SF-46-006.pdf",
+        "sha256": "7383d5e4cf29c1e3f4d9d1166fda83f66b1cb030c3c665c95c5b3195f4579edf",
+        "status": "paid"
+      },
+      {
+        "series": 52 / 53,
+        "label": "Series 52 & 53 Combined",
+        "invoice_id": "SF-46-007",
+        "business": "GoalDaddy Breaks LLC",
+        "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/6916285f34523062f57ead1f_Invoice%20-%20SF-46-007.pdf",
+        "sha256": "f41d566829c4029204ea67c1e195afa87626804a9705d08e054dc3521022a9f3",
+        "status": "paid"
+      }
+    ]
   }
 ]
