@@ -1,5 +1,69 @@
 [
   {
+    "series": "Series 54",
+    "revision": "2025-11-13T140644",
+    "published_at": "2025-11-13T22:06:47.692Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "batch_id": "10009",
+    "batchId": "10009",
+    "sealed_at_iso": "2025-11-13T22:05:52.840Z",
+    "transfer_at_iso": "",
+    "to_entity": "GoalDaddy Breaks (Santa Clarita, CA)",
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://drive.google.com/uc?export=download&id=1jmcPuyogVZNKlHUyQcOiw1UdDAr6aSgN",
+        "sha256": "ac612596c08c31b9dfc7bba0f930cd7458dc8bbe525368b81bcb9ae7ed097f00",
+        "bytes": 3904
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1yW4yByXsno1o5vG3H-PRAI4ucxHZWahS",
+        "sha256": "0ecb93b7d71356681d0e6869e83c55ec6570b3ac29757a095468cb9a3f8a6062",
+        "bytes": 108116
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1U8OkoQXaU4jRS9z6SCInMnO_kx4ZdiVq",
+        "sha256": "1f90f7d061fdd84e17707ec2f9e41c5ec331dc6d39e18cbbd4c378bc12bb0b13",
+        "bytes": 64477,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1JxGY3JqAiNKVkWNkejYRx_6lE6pMrQYA",
+        "sha256": "3a64196b2bf600d853887c71881b9656180ae6375add274dc964c257ade5a81b",
+        "bytes": 60931,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      },
+      {
+        "type": "hash_txt",
+        "url": "https://drive.google.com/uc?export=download&id=1j60LZo4C0SwmIDn--zTI_3Os7_UTntKf",
+        "sha256": "4a2b111b98c88fcbb91cfb695c15f9fc43f45b6eb5b1c86b540caa4a4317de0e",
+        "bytes": 1033,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf",
+          "batch_log_pdf",
+          "transfer_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "caa7cdd318d8d7f2e95b6b0f6ea1c00b6450dcbb8f7c1cc19a60734080e098ca",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    }
+  },
+  {
     "series": "Series 53",
     "revision": "2025-11-12T155428",
     "published_at": "2025-11-12T23:54:31.850Z",
