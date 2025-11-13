@@ -490,7 +490,7 @@
         "status": "paid"
       },
       {
-        "series": 53,
+        "series": 52 & 53,
         "label": "Series 52 & 53 Combined",
         "invoice_id": "SF-46-007",
         "business": "GoalDaddy Breaks LLC",
