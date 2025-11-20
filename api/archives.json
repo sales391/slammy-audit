@@ -115,7 +115,7 @@
       },
       {
         "type": "hash_txt",
-        "url": "https://drive.google.com/uc?export=download&id=1gzb-MSKdvsUUuIkDlow9nL-4jpwJNKyJ",
+        "url": "https://drive.google.com/uc?export=download&id=1gzb-MSKdvsUUuIkDlow9n-4jpwJNKyJ",
         "sha256": "da8405157540f4ec81d314f05abafc3eec694949655a48fa80b8379bb45a0242",
         "bytes": 1033,
         "parents": [
@@ -130,8 +130,8 @@
       "root": "7ab1849f7d19d38235643131d95ce63b73b2744b11a463105abd9d15c48e31a8",
       "root_algo": "sha256-of-concatenated-artifact-hashes"
     },
-    "hash_txt": "https://drive.google.com/uc?export=download&id=1gzb-MSKdvsUUuIkDlow9nL-4jpwJNKyJ",
-    "hash_txt_url": "https://drive.google.com/uc?export=download&id=1gzb-MSKdvsUUuIkDlow9nL-4jpwJNKyJ",
+    "hash_txt": "https://drive.google.com/uc?export=download&id=1gzb-MSKdvsUUuIkDlow9n-4jpwJNKyJ",
+    "hash_txt_url": "https://drive.google.com/uc?export=download&id=1gzb-MSKdvsUUuIkDlow9n-4jpwJNKyJ",
     "hash_txt_sha256": "da8405157540f4ec81d314f05abafc3eec694949655a48fa80b8379bb45a0242",
     "hash_txt_bytes": 1033
   },
@@ -776,6 +776,14 @@
         "business": "GoalDaddy Breaks LLC",
         "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/691ccc19be8a9dbc7a7c9d82_Invoice%20-%20SF-46-009.pdf",
         "sha256": "8c8c7d0974dda360786813e5dfa234e74e66da5f581da7d4fed0938837e0193e",
+        "status": "paid"
+      },
+      {
+        "series": 56,
+        "invoice_id": "SF-46-010",
+        "business": "GoalDaddy Breaks LLC",
+        "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/691f70ce006053342e896b8b_Invoice%20-%20SF-46-010.pdf",
+        "sha256": "ec9af9d5f8eb3124a4d5dbca697df88e0038483d4ec466214ea6b6f61a9d4548",
         "status": "paid"
       }
     ]
