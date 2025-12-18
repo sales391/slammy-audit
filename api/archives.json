@@ -1,5 +1,73 @@
 [
   {
+    "series": "Series 62",
+    "revision": "2025-12-18T144933",
+    "published_at": "2025-12-18T22:49:38.052Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "batch_id": "10017",
+    "batchId": "10017",
+    "sealed_at_iso": "2025-12-18T22:48:39.527Z",
+    "transfer_at_iso": "",
+    "to_entity": "GoalDaddy Breaks (Santa Clarita, CA)",
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://drive.google.com/uc?export=download&id=1CW0sQXtwqsCpVn-5JmKxf8pZl6GzEbZ-",
+        "sha256": "8fbb0ce0aa7b32a6bd0c094987450c4dd6dc34fc53283abf4563c191657af7c0",
+        "bytes": 8372
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=16U-bzPPr_QhqC1MDL37nR22FcqehaOX3",
+        "sha256": "3d20d3093e16d7556decdefad1d030da71859f88b89c81a1e24c50ea2acfebcc",
+        "bytes": 173126
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1XU4Kp9vhaiK6W-7_A2StIHm2m7nFCaQc",
+        "sha256": "b4e357889a85537363511a27ee961bd0e73e6b1381f9a8fd99c98f3ba456d7d6",
+        "bytes": 63704,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1dCtIyRdMhI2du2fFNAsXwCJ3ueQ1qsPS",
+        "sha256": "da42b1472446d4e479a4442f00a6111bb42d845c5692359be8cf1a2886c4a39d",
+        "bytes": 61345,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      },
+      {
+        "type": "hash_txt",
+        "url": "https://drive.google.com/uc?export=download&id=1WTo4c0ha7Ekx3tY9nXuEGb_MNJgMa0tl",
+        "sha256": "852a7566c3811765ec68f18e2d110ff260ef6dea03af40e57890cabe4dace731",
+        "bytes": 1033,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf",
+          "batch_log_pdf",
+          "transfer_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "a897d78390b595603029d1ac7dfe9976b999ebe8b38bb0d4a636eb0adb98aba5",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    },
+    "hash_txt": "https://drive.google.com/uc?export=download&id=1WTo4c0ha7Ekx3tY9nXuEGb_MNJgMa0tl",
+    "hash_txt_url": "https://drive.google.com/uc?export=download&id=1WTo4c0ha7Ekx3tY9nXuEGb_MNJgMa0tl",
+    "hash_txt_sha256": "852a7566c3811765ec68f18e2d110ff260ef6dea03af40e57890cabe4dace731",
+    "hash_txt_bytes": 1033
+  },
+  {
     "series": "Series 61",
     "revision": "2025-12-13T160922",
     "published_at": "2025-12-14T00:09:26.229Z",
