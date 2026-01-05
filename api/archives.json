@@ -475,6 +475,7 @@
     "hash_txt_sha256": "8b407c0618aca690f40b4b877caa17591e8c5aff1105085e6ce80b547d90487e",
     "hash_txt_bytes": 1031
   },
+
   {
     "series": "Series 60",
     "revision": "2025-12-07T154425",
@@ -543,6 +544,7 @@
     "hash_txt_sha256": "e86c0ac5dc0c5dbd3ad87954198eb46208465565b6a9d44900a60636039242b6",
     "hash_txt_bytes": 1031
   },
+
   {
     "series": "Series 59",
     "revision": "2025-12-02T144928",
@@ -611,6 +613,7 @@
     "hash_txt_sha256": "dfe44f1fb0a60399211e69f7f033828dd6b0bad4bb7a6355d844faf25fabb71f",
     "hash_txt_bytes": 1031
   },
+
   {
     "series": "Series 58",
     "revision": "2025-11-28T144659",
@@ -679,6 +682,7 @@
     "hash_txt_sha256": "ef59abfe664e053cf074c643a9c6f35718a7f62c04dae39084487e09b5fad640",
     "hash_txt_bytes": 1033
   },
+
   {
     "series": "Series 57",
     "revision": "2025-11-20T144820",
@@ -747,6 +751,7 @@
     "hash_txt_sha256": "f42738c56c9a42c9350c983b45585f5c31b888fbe279685a8dbfbe99f166989b",
     "hash_txt_bytes": 1033
   },
+
   {
     "series": "Series 56",
     "revision": "2025-11-19T125538",
@@ -815,6 +820,7 @@
     "hash_txt_sha256": "e7c63727ef97af3f388315fc8d70d32e9a77969b1f6b26e3ede7e6ddbcda1cb0",
     "hash_txt_bytes": 1035
   },
+
   {
     "series": "Series 55",
     "revision": "2025-11-17T154310",
@@ -883,6 +889,7 @@
     "hash_txt_sha256": "da8405157540f4ec81d314f05abafc3eec694949655a48fa80b8379bb45a0242",
     "hash_txt_bytes": 1033
   },
+
   {
     "series": "Series 54",
     "revision": "2025-11-13T145514",
@@ -947,6 +954,7 @@
       "root_algo": "sha256-of-concatenated-artifact-hashes"
     }
   },
+
   {
     "series": "Series 54",
     "revision": "2025-11-13T140644",
@@ -1011,6 +1019,7 @@
       "root_algo": "sha256-of-concatenated-artifact-hashes"
     }
   },
+
   {
     "series": "Series 53",
     "revision": "2025-11-12T155428",
@@ -1063,6 +1072,7 @@
       "root_algo": "sha256-of-concatenated-artifact-hashes"
     }
   },
+
   {
     "series": "Series 53",
     "revision": "2025-11-12T154918",
@@ -1115,6 +1125,7 @@
       "root_algo": "sha256-of-concatenated-artifact-hashes"
     }
   },
+
   {
     "series": "Series 53",
     "revision": "2025-11-12T130627",
@@ -1167,6 +1178,7 @@
       "root_algo": "sha256-of-concatenated-artifact-hashes"
     }
   },
+
   {
     "series": "Series 52",
     "revision": "2025-11-10T133305",
@@ -1219,6 +1231,7 @@
       "root_algo": "sha256-of-concatenated-artifact-hashes"
     }
   },
+
   {
     "series": "Series 51",
     "revision": "2025-11-06T173228",
@@ -1275,6 +1288,7 @@
     "qc_summary": "5% sample (25 packs), 0 defects, verified by C.G. on 2025-11-07 09:35 PT",
     "business": "GoalDaddy Breaks LLC"
   },
+
   {
     "version": 2,
     "generated_at": "2025-11-05T22:00:00Z",
@@ -1604,6 +1618,14 @@
         "business": "GoalDaddy Breaks LLC",
         "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/69584539ef074eed5d395cbd_Invoice%20-%20SF-46-019.pdf",
         "sha256": "a121a93546c0dd7c63c7daa31f54ad24558137864d8f826ff231c85c58c3a7a7",
+        "status": "paid"
+      },
+      {
+        "series": 66,
+        "invoice_id": "SF-46-020",
+        "business": "GoalDaddy Breaks LLC",
+        "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/695c2f1360574f7a871f8b60_Invoice%20-%20SF-46-020.pdf",
+        "sha256": "4d41af8a7cd3f89d027b69b439f053fbc66d9d9dc18b8c664f39d6d58a6f79eb",
         "status": "paid"
       }
     ]
