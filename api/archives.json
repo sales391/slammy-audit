@@ -2121,6 +2121,15 @@
         "sha256": "ed8ce1b3d78ee3295115e97d35103508c5b868980b7e260163b0d325163a625e",
         "status": "paid",
         "fetch_mode": "direct"
+      },
+      {
+        "series": 72,
+        "invoice_id": "SF-46-027",
+        "business": "GoalDaddy Breaks LLC",
+        "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/69811ce58c226a3ebdaf3e3f_Invoice%20-%20SF-46-027.pdf",
+        "sha256": "04b43a88b60ca682b0aed8350317b13bdefd81927a9c8427d7c98e4e8853bd7d",
+        "status": "paid",
+        "fetch_mode": "direct"
       }
     ]
   }
