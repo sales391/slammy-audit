@@ -4,6 +4,77 @@
     "series_num": "1",
     "partner_key": "GONSOBREAKZ",
     "partner": "GonsoBreakz",
+    "revision": "2026-02-16T212421",
+    "published_at": "2026-02-17T05:24:24.271Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "batch_id": "10032",
+    "batchId": "10032",
+    "sealed_at_iso": "2026-02-17T05:18:12.411Z",
+    "transfer_at_iso": "",
+    "to_entity": "GonsoBreakz",
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://drive.google.com/uc?export=download&id=174yYwmO6RTBqeh8PYdv4YS4GZXTpco2b",
+        "sha256": "5ba45ca21e9804717cbcc2e5aa514b0ca2c63b9c2b1d68b5896f525567c6244d",
+        "bytes": 166
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=198SydEOfsxhByxjxxKQuH1iV9MAKEaGf",
+        "sha256": "5a795793d9c7b8e6208e94780d572b985b9056ff579530bdb831c11a03de2cfe",
+        "bytes": 42393
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1cnFdatFkp3wGvCjVm52OTFtlEz2VZ0BO",
+        "sha256": "50c4058829778d84f16f9dd4790d84b8d5eac02b317e2cbf67684f7eb7fc529a",
+        "bytes": 64356,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1yCy_oWUvtncR-VS2h2LLU2EDfA_RXWze",
+        "sha256": "34b8192541fba301b1c7b09463622ffd0cc113a7c1cf34b804552468273e4fc4",
+        "bytes": 60047,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      },
+      {
+        "type": "hash_txt",
+        "url": "https://drive.google.com/uc?export=download&id=1GXdQ5wtdyO6SvmaugwwdxyWXR0DzclSE",
+        "sha256": "b25d019bb931540a3ee88571c3d1c55be6b9390142fc52d7314710662b6dc959",
+        "bytes": 1078,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf",
+          "batch_log_pdf",
+          "transfer_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "ccc6c8d182375c761c42e4d127ee7211e146348103ee3f7275dcea029ebe97ca",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    },
+    "hash_txt": "https://drive.google.com/uc?export=download&id=1GXdQ5wtdyO6SvmaugwwdxyWXR0DzclSE",
+    "hash_txt_url": "https://drive.google.com/uc?export=download&id=1GXdQ5wtdyO6SvmaugwwdxyWXR0DzclSE",
+    "hash_txt_sha256": "b25d019bb931540a3ee88571c3d1c55be6b9390142fc52d7314710662b6dc959",
+    "hash_txt_bytes": 1078
+  },
+  {
+    "series": "Series 1",
+    "series_num": "1",
+    "partner_key": "GONSOBREAKZ",
+    "partner": "GonsoBreakz",
     "revision": "2026-02-16T211912",
     "published_at": "2026-02-17T05:19:14.696Z",
     "source": {
