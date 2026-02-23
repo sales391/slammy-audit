@@ -710,77 +710,6 @@
     "hash_txt_bytes": 1078
   },
   {
-    "series": "Series 77",
-    "series_num": "77",
-    "partner_key": "GONSOBREAKZ",
-    "partner": "GonsoBreakz",
-    "revision": "2026-02-16T210539",
-    "published_at": "2026-02-17T05:05:42.209Z",
-    "source": {
-      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
-      "tab_gid": 996686463,
-      "generator": "Show Build Dashboard"
-    },
-    "batch_id": "10032",
-    "batchId": "10032",
-    "sealed_at_iso": "2026-02-17T05:04:25.114Z",
-    "transfer_at_iso": "",
-    "to_entity": "GonsoBreakz",
-    "artifacts": [
-      {
-        "type": "checklist_csv",
-        "url": "https://drive.google.com/uc?export=download&id=1rqymDXxWROBSH82gGHgmvXfESzbkAcud",
-        "sha256": "f7c1a682b4a79d03caae552d2cf09c3b682f0cb086cf1ba18d85b3b084fbbb6f",
-        "bytes": 168
-      },
-      {
-        "type": "checklist_pdf",
-        "url": "https://drive.google.com/uc?export=download&id=1hqLOIKVZnBzbZfHLuq-NLmXXcd67Zf4l",
-        "sha256": "18ead0f45292724d0f94d9a5e7811957a21149eebf35872b4d54a8e138d92549",
-        "bytes": 42538
-      },
-      {
-        "type": "batch_log_pdf",
-        "url": "https://drive.google.com/uc?export=download&id=18Yr7CFod0D75yRBhnISbKn7PU8n2N-6L",
-        "sha256": "b232e5347b4dd7c7b76f57d2d3e7e73acdf8dbdbb6c0f10b38b603f68d3433a6",
-        "bytes": 64441,
-        "parents": [
-          "checklist_csv",
-          "checklist_pdf"
-        ]
-      },
-      {
-        "type": "transfer_log_pdf",
-        "url": "https://drive.google.com/uc?export=download&id=1srjAT03fOCAfwQcgA-8V6YhT9Skt5z_b",
-        "sha256": "ae1fa0a3d9e9300ca50b1f4b0b3e10e114b8e70a57d2b47674d8f0ea3137ef9d",
-        "bytes": 59875,
-        "parents": [
-          "batch_log_pdf"
-        ]
-      },
-      {
-        "type": "hash_txt",
-        "url": "https://drive.google.com/uc?export=download&id=1DBBiNMziuXDkiOHg_msW_H-rG6RGn-YK",
-        "sha256": "76c571c36921d0bcfbef9cf5c00a4fd15e3fe564e2a93a7eddf7406b69c0a514",
-        "bytes": 1081,
-        "parents": [
-          "checklist_csv",
-          "checklist_pdf",
-          "batch_log_pdf",
-          "transfer_log_pdf"
-        ]
-      }
-    ],
-    "integrity": {
-      "root": "02b3211aa8f95f79ab126260231f6b858920b00d1ffd7930574cd8b0ee208ec5",
-      "root_algo": "sha256-of-concatenated-artifact-hashes"
-    },
-    "hash_txt": "https://drive.google.com/uc?export=download&id=1DBBiNMziuXDkiOHg_msW_H-rG6RGn-YK",
-    "hash_txt_url": "https://drive.google.com/uc?export=download&id=1DBBiNMziuXDkiOHg_msW_H-rG6RGn-YK",
-    "hash_txt_sha256": "76c571c36921d0bcfbef9cf5c00a4fd15e3fe564e2a93a7eddf7406b69c0a514",
-    "hash_txt_bytes": 1081
-  },
-  {
     "series": "Series 76",
     "revision": "2026-02-15T134629",
     "published_at": "2026-02-15T21:46:32.722Z",
@@ -3140,6 +3069,15 @@
         "business": "GoalDaddy Breaks LLC",
         "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/699361fcda9108f2745ec868_Invoice%20-%20SF-46-030.pdf",
         "sha256": "17545ced05019bc5fe9bfaa50d86aed36e0954264cc048017952e45bf66ddcea",
+        "status": "paid",
+        "fetch_mode": "direct"
+      },
+      {
+        "series": 76,
+        "invoice_id": "SF-46-032",
+        "business": "GoalDaddy Breaks LLC",
+        "pdf_url": "https://cdn.prod.website-files.com/68dd812d1b0b5b66b49cb046/699ccff61d628a6a32c250ea_Invoice%20-%20SF-46-032.pdf",
+        "sha256": "1ae814705c19f23350186a9fd90c1f94716d224f21fdf5a9a86bca587b889503",
         "status": "paid",
         "fetch_mode": "direct"
       }
