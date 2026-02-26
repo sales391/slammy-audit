@@ -4,6 +4,77 @@
     "series_num": "2",
     "partner_key": "BLUEMOUNTAINBREAKS",
     "partner": "Bluemountain Breaks",
+    "revision": "2026-02-25T205743",
+    "published_at": "2026-02-26T04:57:47.067Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "batch_id": "10033",
+    "batchId": "10033",
+    "sealed_at_iso": "2026-02-26T04:56:19.948Z",
+    "transfer_at_iso": "",
+    "to_entity": "BLUEMOUNTAINBREAKS",
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://drive.google.com/uc?export=download&id=1a_ic6qCy2kBtYEZTbTi2yqygstPkir-I",
+        "sha256": "cc1168a1fdd612aff69e756e193123280c52fd1f83bc4bb86c9aca048cc00ba4",
+        "bytes": 5313
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=12Rtox-Rt5d6Xys-DbR8UWA49HiJatr-s",
+        "sha256": "ca508977a59ee8e25c1700f9790407712033d17e71892e5938c074e394c12130",
+        "bytes": 125349
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1ox0A_W5_yhdut8o9CulZI98qCfsZhZVW",
+        "sha256": "c30962882e430c282a23d0a4f4782e61867eb51fb8b6de824d1c0b8084b01816",
+        "bytes": 64294,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1dgKsCD8jnWa1Mb2R_AEe3ZYs4P5fwNuu",
+        "sha256": "2e8bd0e7cd8f34196b4e2b05b741621bf32a3bbafa19ad8e3a58a64eadbe15cf",
+        "bytes": 60905,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      },
+      {
+        "type": "hash_txt",
+        "url": "https://drive.google.com/uc?export=download&id=1DgXgL1X67H1-CnD00WDQs8vhto3aUXst",
+        "sha256": "6bb2aab27b0db2a83178287e28eaef41113faa61db23372e632176695e8b7d1b",
+        "bytes": 1107,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf",
+          "batch_log_pdf",
+          "transfer_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "288d826d82febe15d0b4ec88e0c5acefbb675dc22735074f15faed2c143dba0f",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    },
+    "hash_txt": "https://drive.google.com/uc?export=download&id=1DgXgL1X67H1-CnD00WDQs8vhto3aUXst",
+    "hash_txt_url": "https://drive.google.com/uc?export=download&id=1DgXgL1X67H1-CnD00WDQs8vhto3aUXst",
+    "hash_txt_sha256": "6bb2aab27b0db2a83178287e28eaef41113faa61db23372e632176695e8b7d1b",
+    "hash_txt_bytes": 1107
+  },
+  {
+    "series": "Series 2",
+    "series_num": "2",
+    "partner_key": "BLUEMOUNTAINBREAKS",
+    "partner": "Bluemountain Breaks",
     "revision": "2026-02-25T204634",
     "published_at": "2026-02-26T04:46:38.107Z",
     "source": {
