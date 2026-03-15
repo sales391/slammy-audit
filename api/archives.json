@@ -1,5 +1,76 @@
 [
   {
+    "series": "Series 80",
+    "series_num": "80",
+    "partner_key": "GOALDADDYBREAKS",
+    "partner": "GoalDaddy Breaks",
+    "revision": "2026-03-15T132658",
+    "published_at": "2026-03-15T20:27:01.425Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "batch_id": "10038",
+    "batchId": "10038",
+    "sealed_at_iso": "2026-03-15T20:25:56.429Z",
+    "transfer_at_iso": "",
+    "to_entity": "GoalDaddy Breaks (Santa Clarita, CA)",
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://drive.google.com/uc?export=download&id=1qm6pEQMpajxVIY5Vqt8Wdi_hapdP5H00",
+        "sha256": "a4d77642ee23b0e4186c29e89024f3e57d5328d3752a588e1b634b3218c8fa6b",
+        "bytes": 8163
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=17y3xiuu-CUEpjPuXPnrg8-olJcuGtPsv",
+        "sha256": "cb62564dcebc4bf8cf83722db4afa26ead7cb8fee509fbe7c0943ac7bc68f6b7",
+        "bytes": 166954
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1yu1DhdRR_FMwaIFXw8EkcUaLoeUH7RU-",
+        "sha256": "e3050a4c0cd1e6fd65101f73cec00c2c84948beef12a608e845dbd4a80ed5cfe",
+        "bytes": 65003,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1g6Ll7ekjj_P35b3ml1t19y3ZiapPiMu2",
+        "sha256": "f6488822405474f5e225c487d0b943fecae085d61a11801bf7a80e76689eb00e",
+        "bytes": 61310,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      },
+      {
+        "type": "hash_txt",
+        "url": "https://drive.google.com/uc?export=download&id=1OoCgTYFjMZFVdQqzS1kSg-1EStjva3-9",
+        "sha256": "90fbe3a26c584e48af47cd8b97f818ba6f085ce6d7bef50a103c9e4f55ddd259",
+        "bytes": 1119,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf",
+          "batch_log_pdf",
+          "transfer_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "55bd7050b86de8c53794a5423af3afceae0ed6ca50ddafd095d2bef567720c07",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    },
+    "hash_txt": "https://drive.google.com/uc?export=download&id=1OoCgTYFjMZFVdQqzS1kSg-1EStjva3-9",
+    "hash_txt_url": "https://drive.google.com/uc?export=download&id=1OoCgTYFjMZFVdQqzS1kSg-1EStjva3-9",
+    "hash_txt_sha256": "90fbe3a26c584e48af47cd8b97f818ba6f085ce6d7bef50a103c9e4f55ddd259",
+    "hash_txt_bytes": 1119
+  },
+  {
     "series": "Series 79",
     "series_num": "79",
     "partner_key": "GOALDADDYBREAKS",
