@@ -1,5 +1,76 @@
 [
   {
+    "series": "Series 10",
+    "series_num": "10",
+    "partner_key": "GONSOBREAKZ",
+    "partner": "GonsoBreakz",
+    "revision": "2026-05-05T123148",
+    "published_at": "2026-05-05T19:31:50.656Z",
+    "source": {
+      "sheet_id": "1ZvoVBtLekU0dPpYAZqB0HdfsaxqvA_Wg5F6Ck20x1uo",
+      "tab_gid": 996686463,
+      "generator": "Show Build Dashboard"
+    },
+    "batch_id": "10044",
+    "batchId": "10044",
+    "sealed_at_iso": "2026-05-05T19:30:36.761Z",
+    "transfer_at_iso": "",
+    "to_entity": "GONSOBREAKZ",
+    "artifacts": [
+      {
+        "type": "checklist_csv",
+        "url": "https://drive.google.com/uc?export=download&id=1rtRrxigkUwkhsZsGp7ktXeRRmg4x6HtG",
+        "sha256": "4b740d5c1a065a21381c5062edfaa6d41b31ca004abfe0fdf944516f793e613f",
+        "bytes": 1612
+      },
+      {
+        "type": "checklist_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=11A7DLwhiXp4ZCoV7DEqizO-6T3FfeeoK",
+        "sha256": "1d58711b5e83bd516723cf11a0ee878f42f20d492c022e93f2baa252fb33d52c",
+        "bytes": 66918
+      },
+      {
+        "type": "batch_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=16pK0O7yNZz4J65WBrf73z811toY-yN-O",
+        "sha256": "15e979d303a3e21ec258fd84302441af54846dcb1c9294afed726a62670bc435",
+        "bytes": 49058,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf"
+        ]
+      },
+      {
+        "type": "transfer_log_pdf",
+        "url": "https://drive.google.com/uc?export=download&id=1Dh9hn6vpL55JZs90kZtTy60KQETdGXDG",
+        "sha256": "0bec4bd134145c53c9e5b755b11e1b1c4143ec4a182bdebcd7ed548055c07e4e",
+        "bytes": 45685,
+        "parents": [
+          "batch_log_pdf"
+        ]
+      },
+      {
+        "type": "hash_txt",
+        "url": "https://drive.google.com/uc?export=download&id=1oujHBPgK1ls5fQAw_vlxa9MM9oIs1xyU",
+        "sha256": "cbc61f74790ce5b3c2575951cf0e890617f16001fc7435ad50c51b524a125c69",
+        "bytes": 1081,
+        "parents": [
+          "checklist_csv",
+          "checklist_pdf",
+          "batch_log_pdf",
+          "transfer_log_pdf"
+        ]
+      }
+    ],
+    "integrity": {
+      "root": "806ad5ed591509e8923fdf2c2d9b3649319708f2c05f4bc4c5ebc7d7c7ce64ac",
+      "root_algo": "sha256-of-concatenated-artifact-hashes"
+    },
+    "hash_txt": "https://drive.google.com/uc?export=download&id=1oujHBPgK1ls5fQAw_vlxa9MM9oIs1xyU",
+    "hash_txt_url": "https://drive.google.com/uc?export=download&id=1oujHBPgK1ls5fQAw_vlxa9MM9oIs1xyU",
+    "hash_txt_sha256": "cbc61f74790ce5b3c2575951cf0e890617f16001fc7435ad50c51b524a125c69",
+    "hash_txt_bytes": 1081
+  },
+  {
     "series": "Series 9",
     "series_num": "9",
     "partner_key": "BLUEMOUNTAINBREAKS",
